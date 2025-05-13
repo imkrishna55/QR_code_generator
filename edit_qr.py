@@ -9,4 +9,4 @@ qr= qrcode.QRCode(version=1,
 qr.add_data("https://www.youtube.com/@ShreeKrishnaTiwari-d2v")
 qr.make(fit=True)
 img=qr.make_image(fill_color="red",back_color="white")
-img.save("krishna_youtube.png")
+img.save("krishnaa_youtube.png")
